@@ -1,15 +1,5 @@
-** LEXA.AI
- PROJECT REPORT**
- 
- 1. Abstract..................................................................................................................... 3
- 2. Introduction................................................................................................................. 3
- 3. FeaturesandFunctionalities...............................................................................................3
- 4. SystemArchitecture....................................................................................................4
- 5. TechnologyStack........................................................................................................5
- 6. ImplementationMethodology.....................................................................................6
- 7. Conclusion...................................................................................................................7
- 8. References..................................................................................................................7
- 
+**LEXA.AI PROJECT REPORT**
+
 **1. Abstract**
  Lexa.AI is an innovative natural language processing (NLP) platform designed
  to provide comprehensive legal guidance based on Pakistani law. This project
@@ -30,6 +20,7 @@
 **i. Legal Query Processing**
  ● Users can input legal queries, which are processed to provide structured
  responses based on the Pakistani legal system.
+ 
 **● Theresponse includes:**
 **○ Overview: Summary of the legal context.**
 **○ Section Description:** Details on relevant sections of the law.
